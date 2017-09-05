@@ -23,4 +23,4 @@ Once done you should see a screen with select currency pair exchange rates and o
 <img src="Resources/client.png" alt="client"/>
 
 ### How to build
-The system can be compiled using the standard java compiler. However, not that for the server you need to include the sqlite jdbc library.
+The system can be compiled using the standard java compiler. However, note that for the server you need to include the sqlite jdbc library.
