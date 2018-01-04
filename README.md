@@ -24,5 +24,3 @@ Once done you should see a screen with select currency pair exchange rates and o
 
 ### How to build
 The system can be compiled using the standard java compiler. However, note that for the server you need to include the sqlite jdbc library.
-
-<a href="https://app.codesponsor.io/link/F7562BGJ3YiAu5CBEEerdT66/akapila011/Currency-Exchange-Broadcaster" rel="nofollow"><img src="https://app.codesponsor.io/embed/F7562BGJ3YiAu5CBEEerdT66/akapila011/Currency-Exchange-Broadcaster.svg" style="width: 888px; height: 68px;" alt="Sponsor" /></a>
